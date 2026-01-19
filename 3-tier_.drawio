@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.0">
   <diagram name="Page-1" id="lH-3FopdAcQvOl-I3gh9">
-    <mxGraphModel dx="1892" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1796" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,7 @@
           <mxGeometry height="30" width="70" x="745" y="420" as="geometry" />
         </mxCell>
         <mxCell id="7lRe9dR_3Lw0c_hKflVh-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;b&gt;Weblogic&lt;/b&gt;&lt;div&gt;&lt;b&gt;WebSphere&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;JBOSS&lt;/b&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="90" x="350" y="295" as="geometry" />
+          <mxGeometry height="60" width="90" x="300" y="295" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
